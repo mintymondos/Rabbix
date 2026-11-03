@@ -8,6 +8,8 @@ BUILD INFO:
     to install dependencies and other shit, run ./build-cross.sh
     then after, build the kernel itself, run ./rub.sh
 
+    If you are trying to build the kernel on windows, sorry not sorry you need WSL or Linux on your computer (I'd recommend Linux Mint)
+
 explanation for some things 
 filesystem drivers
     Rabbix will eventually (or does depending on the FS) support the following filesystems 
