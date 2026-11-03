@@ -16,7 +16,7 @@ filesystem drivers
         - fat32 [WIP]
         - ext2 [WIP]
         - ext3 [WIP]
-        - ext4 [NO SHIT ITS STILl WIP!!!!]
+        - ext4 [NO SHIT ITS STILL WIP!!!!]
         - exfat [VERY WIP!!!!!!!]
         - redsea [WIP] (long live King Terry the Terrible)
     this list is definitely subject to change as time goes on, however, no filesystem will ever be dropped from support as to not break userspace.
@@ -24,12 +24,6 @@ filesystem drivers
     - a note on RedSea
         RedSea will probably never be implemented into the 32 bit flavor of RABBIX since King Terry made it exclusively for 64 bits, sorry!
 
-3: userspace
-    if you cant tell by the name, /Rabbix/userspace is where the userspace stuff goes, such as: the DE, WM, and all other processes
-4: drivers
-    its the drivers, self explanatory.
-5: helpers
-    the helper stuff like string.c/.h. Along with kprintf, the kernel panic function, and the RABBIX logo ascii, etc.
 BOOTLOADER SUPPORT:
 currently the only thing that Rabbix 0.01 supports is 32 bit GRUB, however contributers can do whatever and add support for other bootloaders
 
