@@ -2,7 +2,7 @@
 Rabbix is a project built to be an x86 (potentially) fully functioning UNIX-like kernel (much like Torvalds' Linux) made to be fast as FUCK and easy to use.
 
 current (x86) 32bit-flavor version: 0.01
-current (x86) 64bit-flavor version: 0.00 (not indev yet, will be when 32bit-flavor released)
+current (x86) 64bit-flavor version: 0.00 (not indev yet, will be when 32bit-flavor releases!)
 
 BUILD INFO:
     to install dependencies and other shit, run ./build-cross.sh
