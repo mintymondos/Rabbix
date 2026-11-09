@@ -1,0 +1,1 @@
+you don't necessarily NEED grub multiboot2 but its recommended for the 32 bit RABBIX Flavor
